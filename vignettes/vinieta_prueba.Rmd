@@ -1,0 +1,21 @@
+---
+title: "vinieta_prueba"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{vinieta_prueba}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(PaqueteNuevo)
+```
+
+esta es una vineta de prueba podemos mostrar como usar las funciones del paquete. 
