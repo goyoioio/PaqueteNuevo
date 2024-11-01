@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/goyoioio/PaqueteNuevo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/goyoioio/PaqueteNuevo/actions/workflows/R-CMD-check.yaml)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
 El objetivo del paquete nuevo es facilitar el analisas de datos
