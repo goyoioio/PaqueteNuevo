@@ -17,9 +17,4 @@ La función \code{tabla_resumen_temperatura} crea una tabla de resumen de la tem
 }
 \examples{
 # Cargar los datos de ejemplo desde el paquete
-data_path <- system.file("data", "estaciones_merged.rda", package = "PaqueteMeteorologia")
-load(data_path)
-
-# Llamar a la función usando los datos cargados
-tabla_resumen_temperatura(estaciones_merged)
 }

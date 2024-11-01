@@ -4,6 +4,8 @@
 # PaqueteNuevo
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/goyoioio/PaqueteNuevo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/goyoioio/PaqueteNuevo/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 El objetivo del paquete nuevo es facilitar el analisas de datos

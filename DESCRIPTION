@@ -5,8 +5,7 @@ Authors@R:
    c(person("Lucas", "Descalzo", email = "ldescalzo@mail.austral.edu.ar", role = c("aut", "cre")),
       person("Gregorio", "Fernandez Perrier", email = "gregoriofernandezperrier@gmail.com", role = "aut"))
 Description: Este paquete no esta pensado para ser instalado, es un paquete de jugete para aprender a desarollar paquetes de R. Por favor no lo instales.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
